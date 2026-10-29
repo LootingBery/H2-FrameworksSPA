@@ -6,7 +6,7 @@ export default function Home() {
           De Berylympiske Lege
         </h1>
 
-        <div className="items-center flex gap-4 ml-auto">
+        <div className="items-center flex gap-4 ml-auto font-bold text-lg">
           <button className="bg-[#004080] text-white px-4 py-2 rounded hover:bg-[#003366]">
             Opret ny spiller
           </button>
@@ -21,18 +21,18 @@ export default function Home() {
       <main className="grid grid-cols-2 gap-90 flex-1 rounded-md bg-[#495057] w-full max-w-450 max-h-240 flex-col items-center justify-between py-16 px-16 sm:items-start">
         <div className="grid w-full grid-cols-1 gap-10 h-full">
           <aside className="bg-[#dee2e6] rounded-2xl">
-            <p className="text-lg text-[#495057] text-center py-2 border-b-2">
-              Rankliste{" "}
+            <p className="text-xl text-[#495057] text-center py-2 border-b-2 font-bold">
+              Rankliste
             </p>
           </aside>
           <aside className="bg-[#dee2e6] rounded-2xl">
-            <p className="text-lg text-[#495057] text-center py-2 border-b-2">
+            <p className="text-xl text-[#495057] text-center py-2 border-b-2 font-bold">
               Tidelgiere kampe
             </p>
           </aside>
         </div>
         <div className="bg-[#dee2e6] h-full rounded-2xl">
-          <p className="text-lg text-[#495057] text-center py-2">
+          <p className="text-3xl text-[#495057] text-center py-1 border-b-2 font-bold">
             Nuværende kamp
           </p>
         </div>
