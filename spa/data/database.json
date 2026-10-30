@@ -1,0 +1,34 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "username": "ben",
+      "wins": 0,
+      "elo": 50,
+      "losses": 0
+    },
+    {
+      "id": 2,
+      "username": "ben",
+      "wins": 0,
+      "elo": 50,
+      "losses": 0
+    },
+    {
+      "id": 3,
+      "username": "William",
+      "wins": 0,
+      "elo": 50,
+      "losses": 0
+    }
+  ],
+  "matches": [
+    {
+      "id": 1,
+      "player1Id": 1,
+      "player2Id": 2,
+      "winnerId": 1,
+      "date": "2026-10-30"
+    }
+  ]
+}
