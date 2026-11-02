@@ -19,7 +19,7 @@ export async function POST(request: Request) {
 
   if (!player1 || !player2 || player1.id === player2.id) {
     return NextResponse.json(
-      { errorbob: "Vælg to forskellige spillere" },
+      { error: "Vælg to forskellige spillere" },
       { status: 400 },
     );
   }

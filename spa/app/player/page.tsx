@@ -62,7 +62,7 @@ export default function Page() {
       <main className="grid grid-cols-3 flex-1 rounded-md text-[#495057] bg-[#495057] w-full max-w-450 max-h-240 flex-col items-center justify-between py-16 px-16 sm:items-start">
         <div />
 
-        <div className="bg-[#dee2e6] h-full rounded-2xl">
+        <div className="bg-[#dee2e6] h-flex rounded-2xl">
           <p className="text-3xl text-center py-1 border-b-2 font-bold">
             Opret ny spiller
           </p>
@@ -93,12 +93,6 @@ export default function Page() {
                 {message}
               </p>
             )}
-
-            <div className="border-b-2 border-[#495057]" />
-
-            <div className="w-full h-137 rounded-lg bg-[#495057]">
-              {/* Add player list */}
-            </div>
           </form>
         </div>
       </main>

@@ -3,109 +3,107 @@
     {
       "id": 1,
       "username": "Benjamin",
-      "wins": 1,
-      "losses": null
+      "wins": 0,
+      "losses": 0
     },
     {
       "id": 2,
       "username": "Marius",
-      "wins": null,
-      "losses": null
+      "wins": 0,
+      "losses": 0
     },
     {
       "id": 3,
       "username": "William",
       "wins": 0,
-      "losses": 3
+      "losses": 0
     },
     {
       "id": 4,
       "username": "Silke",
-      "wins": 1,
+      "wins": 0,
       "losses": 0
     },
     {
       "id": 5,
       "username": "Christian",
-      "wins": null,
-      "losses": null
+      "wins": 0,
+      "losses": 0
     },
     {
       "id": 6,
       "username": "Nima",
-      "wins": null,
+      "wins": 0,
       "losses": 1
     },
     {
       "id": 7,
       "username": "Casper",
-      "wins": 1,
-      "losses": null
+      "wins": 0,
+      "losses": 0
     },
     {
       "id": 8,
       "username": "Jesper",
-      "wins": null,
-      "losses": null
+      "wins": 0,
+      "losses": 0
     },
     {
       "id": 9,
       "username": "Micheal",
-      "wins": null,
-      "losses": null
+      "wins": 0,
+      "losses": 0
     },
     {
       "id": 10,
       "username": "Freja",
-      "wins": null,
-      "losses": null
+      "wins": 0,
+      "losses": 0
     },
     {
       "id": 11,
       "username": "Patrick",
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "id": 12,
+      "username": "Susanne",
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "id": 13,
+      "username": "Arne",
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "id": 14,
+      "username": "Frederikke",
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "id": 15,
+      "username": "Mikkel",
       "wins": 1,
-      "losses": null
+      "losses": 0
+    },
+    {
+      "id": 16,
+      "username": "Mads",
+      "wins": 0,
+      "losses": 0
     }
   ],
   "matches": [
     {
       "id": 1,
-      "matchName": "Silke vs William",
-      "player1Id": 4,
-      "player2Id": 3,
-      "winnerId": 4,
-      "date": "2026-11-02"
-    },
-    {
-      "id": 2,
-      "matchName": "Benjamin vs Nima",
-      "player1Id": 1,
+      "matchName": "Mikkel vs Nima",
+      "player1Id": 15,
       "player2Id": 6,
-      "winnerId": 1,
-      "date": "2026-11-02"
-    },
-    {
-      "id": 3,
-      "matchName": "Jesper vs Micheal",
-      "player1Id": 8,
-      "player2Id": 9,
-      "winnerId": 0,
-      "date": "2026-11-02"
-    },
-    {
-      "id": 4,
-      "matchName": "William vs Casper",
-      "player1Id": 3,
-      "player2Id": 7,
-      "winnerId": 7,
-      "date": "2026-11-02"
-    },
-    {
-      "id": 5,
-      "matchName": "Patrick vs William",
-      "player1Id": 11,
-      "player2Id": 3,
-      "winnerId": 11,
+      "winnerId": 15,
       "date": "2026-11-02"
     }
   ]
