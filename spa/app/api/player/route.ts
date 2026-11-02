@@ -14,9 +14,8 @@ export async function POST(request: Request) {
   const newPlayer = {
     id: database.players.length + 1,
     username: body.username,
-    wins: 0,
-    elo: 50,
-    losses: 0,
+    wins: null,
+    losses: null,
   };
 
   database.players.push(newPlayer);
